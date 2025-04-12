@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 MagSafe Wallet Pro with Stand | Capes India
 
@@ -49,3 +50,7 @@ This project is for personal or educational use only. Commercial usage requires 
 🙌 Support
 ----------
 If you like this project, feel free to ⭐ the repo and share it with others!
+=======
+# MagSafe
+MagSafe Wallet Pro Landing Page
+>>>>>>> 04c77abf51a677793ed03d69fb57d912c2898ba1
